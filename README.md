@@ -9,6 +9,7 @@ Click the green **Use this template** button at the top of this repo to copy the
 - Customizations
 - API reference pages
 - Use of popular components
+- AI
 
 **[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
 
